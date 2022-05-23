@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="10" failures="0" errors="0" time="15.289">
+  <testsuite name="src\test\api.spec.ts" errors="0" failures="0" skipped="0" timestamp="2021-09-28T00:53:02" time="14.579" tests="10">
+    <testcase classname="AppController (e2e) GET should be app is running" name="AppController (e2e) GET should be app is running" time="0.057">
+    </testcase>
+    <testcase classname="AppController (e2e) USER expected get user by id" name="AppController (e2e) USER expected get user by id" time="2.326">
+    </testcase>
+    <testcase classname="AppController (e2e) ATTENDANCE expected create a attendance" name="AppController (e2e) ATTENDANCE expected create a attendance" time="0.24">
+    </testcase>
+    <testcase classname="AppController (e2e) ATTENDANCE expected to return an error if try to finish an attendance not started" name="AppController (e2e) ATTENDANCE expected to return an error if try to finish an attendance not started" time="0.161">
+    </testcase>
+    <testcase classname="AppController (e2e) ATTENDANCE expected start the attendance" name="AppController (e2e) ATTENDANCE expected start the attendance" time="0.319">
+    </testcase>
+    <testcase classname="AppController (e2e) ATTENDANCE expected patient by id of attendance" name="AppController (e2e) ATTENDANCE expected patient by id of attendance" time="0.154">
+    </testcase>
+    <testcase classname="AppController (e2e) ATTENDANCE expected to finish an attendance" name="AppController (e2e) ATTENDANCE expected to finish an attendance" time="0.316">
+    </testcase>
+    <testcase classname="AppController (e2e) ATTENDANCE expected to return an error if try to finish an attendance already finished" name="AppController (e2e) ATTENDANCE expected to return an error if try to finish an attendance already finished" time="0.156">
+    </testcase>
+    <testcase classname="AppController (e2e) ATTENDANCE expected to return an error if try to finish an attendance without mandatory or valid id" name="AppController (e2e) ATTENDANCE expected to return an error if try to finish an attendance without mandatory or valid id" time="0.006">
+    </testcase>
+    <testcase classname="AppController (e2e) ATTENDANCE expected delete a attendance" name="AppController (e2e) ATTENDANCE expected delete a attendance" time="0.159">
+    </testcase>
+  </testsuite>
+</testsuites>
