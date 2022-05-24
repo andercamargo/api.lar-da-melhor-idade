@@ -2,7 +2,7 @@
  Api for rest home
 
 
-Development with technologies:<br />
+Developed with technologies:<br />
 <ul>
  <li>Nest.js (https://nestjs.com/)</li>
 <li>Jest.js (https://jestjs.io/pt-BR/)</li>
